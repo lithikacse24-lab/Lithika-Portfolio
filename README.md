@@ -1,7 +1,22 @@
-# Portfolio
+# 💼 Portfolio
+Welcome to my personal portfolio repository.
 
-Welcome to my portfolio. This repository showcases the projects I have developed while learning and exploring different areas of technology and software development. The goal of this portfolio is to demonstrate my skills in programming, problem solving, and building practical applications.
+- This portfolio showcases my journey in web development and the projects I’ve built while learning and improving my skills.
+- It reflects my focus on creating clean, responsive, and user-friendly web applications.
+ 
+## 🌐 Live Portfolio
+**You can view my portfolio here:**
+👉 
+> Deployment : Built using GitHub Pages
 
-Each project highlights my experience with various tools, programming languages, and development practices. Through these projects, I aim to create efficient, user-friendly solutions while continuously improving my technical knowledge.
+## 🚀 About Me
+I am a web developer passionate about building interactive and responsive websites. I enjoy learning new technologies and improving my problem-solving skills through hands-on projects.
+This portfolio represents my growth and continuous learning in web development.
 
-I am passionate about learning new technologies and applying them to real-world problems. This portfolio represents my growth as a developer and my commitment to building better solutions through continuous learning and practice.
+## 🛠️ Tech Stack
+* HTML5
+* CSS3
+* JavaScript
+
+**⭐ If you like this project, feel free to give it a star on GitHub !**
+
