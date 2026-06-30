@@ -6,7 +6,7 @@
  
 ## 🌐 Live Portfolio
 **You can view my portfolio here:** 👉 https://lithikacse24-lab.github.io/Lithika-Portfolio/
-> Deployment : Built using GitHub Pages
+> Deployment : Built using **GitHub Pages**
 
 ## 🚀 About Me
 I am a web developer passionate about building interactive and responsive websites. I enjoy learning new technologies and improving my problem-solving skills through hands-on projects.
